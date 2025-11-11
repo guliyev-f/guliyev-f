@@ -20,7 +20,7 @@ Google Workspace APIs · Airtable · Notion · Webhooks · REST/GraphQL
 ---
 
 ## A few highlights
-- **LinkedIn → Supabase lead pipeline ** — cut manual entry by ~90%  
+- **LinkedIn → Supabase lead pipeline** — cut manual entry by ~90%  
 - **Daily KPI emails (Python)** — scheduled reports with charts & attachments  
 - **Retail analytics DB (PostgreSQL)** — clean schema + ETL + automated QA
 
