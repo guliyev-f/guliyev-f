@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**guliyev-f/guliyev-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **automation + data systems** that turn manual, messy processes into **reliable, hands-off workflows**.  
+I mostly work with **n8n**, **Python**, **Supabase/PostgreSQL**, and popular APIs (Google, Airtable, Notion, CRMs).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- 🔁 **End-to-end automations** — capture → clean → store → notify  
+- 🧩 **Python tooling** — scraping, API integrations, data cleaning/transforms  
+- 🗄️ **Data & DB design** — Supabase/PostgreSQL schemas, ETL, data quality checks  
+- 📊 **Auto-reporting** — Sheets/Slides/email digests, lightweight dashboards
+
+---
+
+## Tools I use
+n8n · Python · Supabase/PostgreSQL · Docker  
+Google Workspace APIs · Airtable · Notion · Webhooks · REST/GraphQL
+
+---
+
+## A few highlights
+- **LinkedIn → Supabase lead pipeline ** — cut manual entry by ~90%  
+- **Daily KPI emails (Python)** — scheduled reports with charts & attachments  
+- **Retail analytics DB (PostgreSQL)** — clean schema + ETL + automated QA
+
+> I care about **measurable outcomes**: saved hours, fewer errors, cleaner data.
+
+---
+
+## How I work
+1) Map your process and pain points  
+2) Design a simple, testable flow (with logging & retries)  
+3) Ship, document, and hand over (video + README) — maintenance optional
+
+---
+
+## Work with me
+- Fixed-scope projects or monthly retainers for updates/monitoring  
+- Clear docs, clean handover, responsive support
+
+
+
+
