@@ -28,4 +28,4 @@ On the more analytical side, I also do SQL-based reporting, KPI dashboards, and 
 
 ### 📬 &nbsp; Get in touch
 
-I am always happy to talk about data engineering, system integrations, or automation architecture. You can find my full professional background on my [LinkedIn](www.linkedin.com/in/farid-guliyev18).
+I am always happy to talk about data engineering, system integrations, or automation architecture. You can find my full professional background on my [LinkedIn](https://www.linkedin.com/in/farid-guliyev18).
